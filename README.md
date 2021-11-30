@@ -1,5 +1,5 @@
 <h1 align="center">Fundamentos de estatística com linguagem R</h1>
-<p align="justify">Material referente à disciplina de fundamentos de estatística para ciência de dados. 
+<p align="justify">Compilado de informações que coletei enquanto estudava a disciplina de fundamentos de estatística para ciência de dados. 
 <br><br>
 Tópicos abordados:
 <li>Frequências e Medidas</li>
